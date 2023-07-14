@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./quotes_project/quotes_app"]
+}
